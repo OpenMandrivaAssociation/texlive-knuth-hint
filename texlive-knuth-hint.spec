@@ -1,5 +1,5 @@
 Name:		texlive-knuth-hint
-Version:	67373
+Version:	72019
 Release:	1
 Summary:	HINT collection of typeset C/WEB sources in TeX Live
 Group:		Publishing
