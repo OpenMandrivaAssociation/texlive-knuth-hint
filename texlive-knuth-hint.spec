@@ -3,7 +3,7 @@ Version:	72019
 Release:	1
 Summary:	HINT collection of typeset C/WEB sources in TeX Live
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/knuth-hint
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/knuth-hint
 License:	pd knuth
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knuth-hint.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/knuth-hint.doc.r%{version}.tar.xz
